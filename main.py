@@ -3,7 +3,7 @@ from discord.ext import commands
 import discord
 from datetime import datetime, timedelta
 import json
-import os
+import o
 import random
 import string
 import threading
